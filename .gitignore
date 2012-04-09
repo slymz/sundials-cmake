@@ -1,0 +1,17 @@
+bin
+build
+config
+examples
+include
+src
+INSTALL_NOTES
+LICENSE
+Makefile.in
+README
+acinclude.m4
+config.hin
+configure
+configure.ac
+doc
+sundials-cmake.workspace.txt
+sundialsTB
