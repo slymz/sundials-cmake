@@ -1,0 +1,29 @@
+<NotepadPlus>
+    <Project name="sundials-cmake">
+        <File name="CMakeLists.txt" />
+        <Folder name="sundials">
+            <File name="src\sundials\CMakeLists.txt" />
+        </Folder>
+        <Folder name="cvode">
+            <File name="src\cvode\CMakeLists.txt" />
+        </Folder>
+        <Folder name="cvodes">
+            <File name="src\cvodes\CMakeLists.txt" />
+        </Folder>
+        <Folder name="ida">
+            <File name="src\ida\CMakeLists.txt" />
+        </Folder>
+        <Folder name="idas">
+            <File name="src\idas\CMakeLists.txt" />
+        </Folder>
+        <Folder name="kinsol">
+            <File name="src\kinsol\CMakeLists.txt" />
+        </Folder>
+        <Folder name="nvec_par">
+            <File name="src\nvec_par\CMakeLists.txt" />
+        </Folder>
+        <Folder name="nvec_ser">
+            <File name="src\nvec_ser\CMakeLists.txt" />
+        </Folder>
+    </Project>
+</NotepadPlus>
